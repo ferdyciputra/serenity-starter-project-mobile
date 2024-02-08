@@ -51,3 +51,22 @@ In order to translate the steps from Scenario BDD into executable actions, we wr
 
 Page Objects are a way of isolating the implementation details of a web page inside a class, exposing only business-focused methods related to that page.
 We can create new Page Object file in directory `src/test/java/pages`
+
+## Contributing
+Contributions are welcome! Whether you're fixing bugs, improving documentation, or adding new features, your input is valuable. Follow these steps to contribute:
+
+1. Fork the repository.
+
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/your-feature-name
+
+3. Commit your changes:
+   ```bash
+   git commit -m "Add your feature or fix"
+
+4. Push to the branch:
+   ```bash
+   git push origin feature/your-feature-name
+
+5. Open a pull request.
